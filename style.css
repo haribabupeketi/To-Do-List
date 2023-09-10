@@ -113,6 +113,11 @@ ul li span:hover{
         left: 28px;
     }
 
+     ul#list-container {
+        position: relative;
+        top: 50px;
+    }
+
     button {
         border: none;
         outline: none;
@@ -145,6 +150,11 @@ ul li span:hover{
         margin-bottom: 25px;
         position: absolute;
         left: 39px;
+    }
+
+     ul#list-container {
+        position: relative;
+        top: 50px;
     }
 
     button {
