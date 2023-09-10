@@ -106,10 +106,11 @@ ul li span:hover{
         align-items: center;
         justify-content: space-between;
         background: #edeef0;
-        border-radius: 10px;
-        margin: 25px;
+        border-radius: 30px;
+        padding-left: 20px;
+        margin-bottom: 25px;
         position: absolute;
-    
+        left: 28px;
     }
 
     button {
