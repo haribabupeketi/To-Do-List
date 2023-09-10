@@ -100,17 +100,17 @@ ul li span:hover{
     background: #edeef0;
 }
 
-@media(max-width:320px) and (min-width:1px){
+@media(max-width:320px){
     .row {
         display: flex;
         align-items: center;
         justify-content: space-between;
         background: #edeef0;
-        border-radius: 30px;
-        padding-left: 20px;
-        margin-bottom: 25px;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 25px;
         position: absolute;
-        left:28px;
+    
     }
 
     button {
